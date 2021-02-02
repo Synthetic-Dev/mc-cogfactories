@@ -12,7 +12,7 @@ A lightweight and semi-vanilla Minecraft modpack, where your goal is to use the 
 The modpack includes FastWorkbench and more in order to increase client performance. It is recommended that you install [optifine](http://adfoc.us/serve/?id=47525077508332 "Optifine 1.16.5") (1.16.5 - 1.16.4 causes crashes with large **create** tile entities) it will help boost your game performance
 
 ### [CurseForge](https://www.curseforge.com/ "CurseForge")
-You can also [view the modpack](https://www.curseforge.com/minecraft/modpacks/cogfactory "Get the modpack") on curseforge!
+You can also [view the modpack](https://www.curseforge.com/minecraft/modpacks/cogfactories "Get the modpack") on curseforge!
 The latest server pack will also be available on curseforge if you wish to make a server and play it with your friends!
 
 ### Mega (Temporary server download)
