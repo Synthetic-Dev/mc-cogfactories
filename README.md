@@ -14,6 +14,3 @@ The modpack includes FastWorkbench and more in order to increase client performa
 ### [CurseForge](https://www.curseforge.com/ "CurseForge")
 You can also [view the modpack](https://www.curseforge.com/minecraft/modpacks/cogfactories "Get the modpack") on curseforge!
 The latest server pack will also be available on curseforge if you wish to make a server and play it with your friends!
-
-### Mega (Temporary server download)
-While the curseforge files are being processed and verified you can find the latest server pack [here](https://mega.nz/file/VIxElDRA#pJCe8Xvuv0AB0BX1IacPfzVvOogHvXQwIQ8lX0ZxxDw "Server pack") 
